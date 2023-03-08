@@ -5,7 +5,7 @@
 	--header-height: 3rem;
 
 	/* ======= Colors ========= */
-	--hue-color: 235; /* cor favorita, no caso é o roxão  */
+	--hue-color: 26; /* cor favorita, no caso é o roxão  */
 
 	/* HSL Color mode */
 	--first-color: hsl(var(--hue-color), 69%, 61%);
@@ -484,53 +484,7 @@ img {
 	font-weight: var(--font-medium);
 }
 
-.skills__bar,
-.skills__percentage {
-	height: 5px;
-	border-radius: 0.25rem;
-}
-.skills__bar {
-	background-color: var(--first-color-lighter);
-}
-.skills__percentage {
-	display: block;
-	background-color: var(--first-color);
-}
-.skills__html {
-	width: 90%;
-}
-.skills__css {
-	width: 80%;
-}
-.skills__js {
-	width: 80%;
-}
-.skills__react {
-	width: 80%;
-}
 
-.skills__php {
-	width: 80%;
-}
-.skills__node {
-	width: 90%;
-}
-.skills__firebase {
-	width: 90%;
-}
-.skills__python {
-	width: 80%;
-}
-
-.skills__figma {
-	width: 90%;
-}
-.skills__sketch {
-	width: 90%;
-}
-.skills__photoshop {
-	width: 80%;
-}
 
 .skills__close .skills__list {
 	height: 0;
@@ -1198,4 +1152,8 @@ img {
 	.contact__inputs {
 		grid-template-columns: repeat(2, 1fr);
 	}
+}
+
+a, a:visited {
+    color: inherit;
 }
