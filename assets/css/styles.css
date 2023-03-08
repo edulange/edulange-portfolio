@@ -5,7 +5,7 @@
 	--header-height: 3rem;
 
 	/* ======= Colors ========= */
-	--hue-color: 176; /* cor favorita, no caso é o roxão  */
+	--hue-color: 235; /* cor favorita, no caso é o roxão  */
 
 	/* HSL Color mode */
 	--first-color: hsl(var(--hue-color), 69%, 61%);
@@ -441,7 +441,7 @@ img {
 .skills__header {
 	display: flex;
 	align-items: center;
-	margin-bottom: var(--mb-2-5);
+	margin-bottom: var(--mb-1-5);
 	cursor: pointer;
 }
 
@@ -537,11 +537,11 @@ img {
 	overflow: hidden;
 }
 
-.skills__open .skills__list {
+.skills_-open .skills__list {
 	height: max-content;
 	margin-bottom: var(--mb-2-5);
 }
-.skills__open .skills__arrow {
+.skills_-open .skills__arrow {
 	transform: rotate(-180deg);
 }
 /* ----------QUALIFICAçÕES------------------*/
