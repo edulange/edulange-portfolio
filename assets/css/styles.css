@@ -5,7 +5,7 @@
 	--header-height: 3rem;
 
 	/* ======= Colors ========= */
-	--hue-color: 26; /* cor favorita, no caso é o roxão  */
+	--hue-color: 226; /* cor favorita, no caso é o roxão  */
 
 	/* HSL Color mode */
 	--first-color: hsl(var(--hue-color), 69%, 61%);
