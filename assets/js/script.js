@@ -1,4 +1,5 @@
-console.log('test')
+
+
 // SHOW MENU E ESCONDER MENU
 const navMenu = document.getElementById("nav-menu"),
 	navToggle = document.getElementById("nav-toggle"),
