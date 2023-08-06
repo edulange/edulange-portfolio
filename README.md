@@ -2,6 +2,8 @@
 
 This is a web application made entirely with JavaScript, HTML, and CSS. It's fully responsive; feel free to try it out.
 
+![Texto alternativo](C:\Users\eduar\Downloads\cmder\jobify\edugod.github.io\assets\cover.png)
+
 ## Skills and Best Practices Utilized
 
 - Usage of descriptive classes and IDs to enhance code understanding and maintainability.
