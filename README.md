@@ -2,7 +2,7 @@
 
 This is a web application made entirely with JavaScript, HTML, and CSS. It's fully responsive; feel free to try it out.
 
-![Texto alternativo](C:\Users\eduar\Downloads\cmder\jobify\edugod.github.io\assets\cover.png)
+![Texto alternativo](/assets/img/cover.png)
 
 ## Skills and Best Practices Utilized
 
