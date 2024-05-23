@@ -19,7 +19,7 @@ This is a web application made entirely with JavaScript, HTML, and CSS. It's ful
 
 To view and explore my portfolio, follow these simple steps:
 
-1. Open your web browser and visit [edugod.github.io](https://edugod.github.io).
+1. Open your web browser and visit [https://edulange.github.io](https://edulange.github.io/edulange-portfolio/).
 2. Once the page loads, you will be presented with the home section, which provides a brief introduction about me and my skills.
 3. Use the navigation menu located at the top to access different sections of the portfolio, such as "About," "Skills," "Achievements," "Portfolio," and "Contact Me."
 4. Click on the corresponding menu items to jump to the specific section you want to explore.
