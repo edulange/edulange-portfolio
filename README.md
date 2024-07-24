@@ -1,4 +1,4 @@
-# My Portfolio - edugod.github.io
+# My Portfolio
 
 This is a web application made entirely with JavaScript, HTML, and CSS. It's fully responsive; feel free to try it out.
 
